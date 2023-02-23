@@ -16,6 +16,6 @@ I do have one anecdotal example in which I transubstantiated the Papyrus of Ani 
 
 Lofty though my intentions may be, I believe we can learn more than what is offered at face value in our shared cultural affinity for text. This union of Science, Technology, Engineering and logical Mathematics (STEM) with the Liberal and Language Arts, I believe, bears potential. How much is up to you, me and anyone who deigns to get down to the basics.
 
-This tableau reliance restores a nation's laughter, edifies, teeming, a lingual legend.
+This tableau reliance restores; a nation's laugh, terse, edifies, teeming, a lingual legend.
 
 ⩤সোনালী⟧⟕ю
