@@ -8,7 +8,7 @@ deign extracts the four letters from a body of text, effectually transubstantiat
 
 The sequence of nucleotides, once extracted from a text, can be entered into a genome database such as the National Library of Medicine's Basic Local Alignment Search Tool (BLAST), the DNA Database of Japan (DDBJ), or the European Bioinformatics Institute (EBI), to name a few.
 
-These databases compare the genetic sequence queries entered against a litany of genetic sequences gleaned from flora and fauna found on our planet. deign makes it possible to compare and examine the DNA or RNA sequences a text shares with a living organism. And, properly altered, one may also view the building-block aminos contained within a text by grouping the DNA or RNA codons by threes and converting them to their corresponding proteins with a dictionary-key mechanism. I will upload this dynamo soon.
+These databases compare the sequence queries entered against a litany of genetic sequences gleaned from flora and fauna found on our planet. deign makes it possible to compare and examine the DNA or RNA sequences a text shares with a living organism. And, properly altered, one may also view the building-block aminos contained within a text by grouping the DNA or RNA codons by threes and converting them to their corresponding proteins with a dictionary-key mechanism. I will upload this dynamo soon.
 
 So what? What is the point of this, you may ask? Well, I don't have a straightforward answer for that yet. In essence, I simply don't know enough about the scientific and medical worlds to know if this application is worth it's weight and wait (I've been sitting on this idea for damn near nine years.
 
