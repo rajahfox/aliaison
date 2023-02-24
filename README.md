@@ -16,6 +16,10 @@ I do have one anecdotal example in which I transubstantiated the Papyrus of Ani 
 
 Lofty though my intentions may be, I believe we can learn more than what is offered at face value in our shared cultural affinity for text. This union of Science, Technology, Engineering and logical Mathematics (STEM) with the Liberal and Language Arts, I believe, bears potential. How much is up to you, me and anyone who deigns to get down to the basics.
 
-This tableau reliance restores a national legend.
+To Emerson's tableau, "Reliance" restores a nation's alterity:
+
+At 44,250 nucleotides, it shares a total of 1,909 perfectly matching sub-sequences of length 11, sharing approximately 20,999 nucleotides (47.46 percent) of its DNA with Saccharomyces cerevisiae S288C (sacCer3), or baker’s yeast. [UCSC, BLAT]
+
+Indeed, one has "receive[d] his supply of corn, gr[ou]nd it in his handmill, and bake[d] his bread himself." ("Self Reliance", Essays, R.W. Emerson, New York. 1907)
 
 ⩤সোনালী⟧⟕ю
